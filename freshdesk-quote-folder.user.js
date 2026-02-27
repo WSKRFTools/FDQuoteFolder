@@ -6,8 +6,8 @@
 // @author       You
 // @match        https://*.freshdesk.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=freshdesk.com
-// @updateURL    https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/freshdesk-quote-folder.user.js
-// @downloadURL  https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/freshdesk-quote-folder.user.js
+// @updateURL    https://raw.githubusercontent.com/WSKRFTools/FDQuoteFolder/main/freshdesk-quote-folder.user.js
+// @downloadURL  https://raw.githubusercontent.com/WSKRFTools/FDQuoteFolder/main/freshdesk-quote-folder.user.js
 // @grant        none
 // ==/UserScript==
 
